@@ -1,0 +1,10 @@
+*************************************************************************************
+Matéria									Diretório   
+*************************************************************************************
+12289 - Implementação de Objetos Distribuídos				S06_IOD
+12292 - Políticas de Segurança de Sistemas				S06_PSS
+13679 - Padrões de Projetos Orientados a Objeto II			S06_PPOOII
+14106 - (PFC) Instrumentação para Desenvolvimento de Software I		S06_PFCI
+14802 - Gestão de Pessoas						S06_GP
+*************************************************************************************
+
