@@ -1,0 +1,24 @@
+Politica de Segurança de Sistemas
+Prof. Mário Gomes Godinho
+Godinho@umc.br
+
+Ementa 
+Elementos básicos de segurança da informação. Politica de segurança da informação e padrões de segurança conformidade.
+
+Avaliação:
+M1 = P1 x 0.8 + Tarefas x 0.2
+    P1->27 setembro
+ND = P2 x 0.8 + Tarefas x 0.2
+    P2->29 novembro
+N2 = ND x 0.7 + PI x 0.3
+    PI->22 novembro
+
+Ponto de partida ... ISO/IEC NBR 27002 **2013
+
+*Obs.: TCC colocar leiame, politica de privacidade.
+
+Encontre e copie o titulo e os objetivos das seguintes normas:
+    - NBR 27001
+    - NBR 27002
+    - NBR 27005
+
