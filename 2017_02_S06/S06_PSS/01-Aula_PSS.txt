@@ -22,3 +22,7 @@ Encontre e copie o titulo e os objetivos das seguintes normas:
     - NBR 27002
     - NBR 27005
 
+Segurança da Informação: 
+Preservação da confidenciabilidade integridade e disponibilidade da informação;
+Adicionalmente outras propriedades, tais como autenticidade responsabilidade, não-repudio e confiabilidade podem também estar envolvidas.
+Garantir a quantinualidade de negócios, maximizar as oportunidades de negócios, minimizar os riscos de negócios e garantir o retorno dos investimentos.
